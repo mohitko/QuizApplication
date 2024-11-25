@@ -6,5 +6,6 @@ public class Main {
 
         QuestionService service = new QuestionService();
         service.Playquiz();
+        service.PrintScore();
     }
 }
